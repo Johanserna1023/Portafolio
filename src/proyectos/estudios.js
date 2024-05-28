@@ -1,8 +1,8 @@
 export const estudios = [
   {
     titulo: "Técnico en desarrollo de software",
-    corporacion: "SENA - Montería (Córdoba) ",
-    fecha: "02/2019 – 12/2019",
+    corporacion: "SENA - Medellín (Antioquia) ",
+    fecha: "01/2020 – 12/2022",
   },
   {
     titulo: "Desarrollador Front-end React Js",
